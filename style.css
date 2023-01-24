@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    background: #808080;
+}
+
+.container {
+    font-family: 'Inter', sans-serif;
+    background-color: #ffffff;
+    margin: 5px auto 5px;
+    width: 550px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+/**** HEADER ****/
+.header--container {
+    background: #00dcdc;
+    position: relative;
+    width: 550px;
+    height: 55px;
+    border-radius: 10px 10px 0 0;
+}
+
+.header--container > img {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 210px;
+    bottom: 15px;
+}
+
+.header--container > h3 {
+    width: 100px;
+    height: 15px;
+    position: absolute;
+    left: 245px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+/********** CARD **********/
+.cards--container {
+    padding: 40px 40px 40px 40px;
+}
+
+.img-info-container {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    align-items: center;
+}
+
+/* Dog Image */
+.dog-img {
+    width: 175px;
+    height: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+/* Location / Link */
+.location-link-container {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 15px;;
+}
+
+.location-logo {
+    width: 10px;
+    height: 15px;
+}
+
+.country-text {
+    padding-left: 5px;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0.15em;
+    position: relative;
+    bottom: 2px;
+}
+
+.web-link {
+    color: #918e9b;
+    font-weight: 400;
+    font-size: 15px;
+    position: relative;
+    bottom: 1px;
+}
+
+/* Dog Info */
+.dog-name {
+    width: 325px;
+    height: 40px;
+    font-size: 30px;
+    color: #2B283A;
+    margin: 5px 0px 0px 0px;
+}
+
+h3.dog-info {
+    color: #2B283A;
+    width: 300px;
+    height: 10px;
+    font-size: 15px;
+    margin: 10px 0px 8px 0px;
+}
+
+h4.dog-info {
+    color: #2B283A;
+    width: 300px;
+    height: 10px;
+    font-size: 15px;
+    margin: 0px 0px 15px 20px;
+}
+
+.dog-desc {
+    color: #2B283A;
+    font-size: 15px;
+    line-height: 125%;
+    margin: 10px 0px 0px 0px;
+}
+
+/* Line Break */
+.line-break {
+    color: #F5F5F5;
+    width: 470px;
+    margin: 20px 0px 20px 0px;
+    
+}
