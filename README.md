@@ -1,28 +1,108 @@
-# cof60496aad16d6ebafc91b8c
+<a name="top-of-page"></a>
+<!--- Title Section --->
 
-Quick start:
+<div align="center">
+	<h1>Time/Name of Project</h1>
+	<p>A short description of what the project is and what it aims to do or the purpose of its creation.</p>
+	<a href="/">Live App Link</a> &#x2022 <a href="/">GitHub Repo Link</a>
+</div>
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
 
-## Development
+<!--- About Section --->
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+## About
+Use this section to mention the technologies used and why those technologies were used specifically. Discuss the approach to the project, the design patterns, or code styles implemented. This section should answer:
+1. How it was built?
+2. Why it was built?
+3. What problems does it solve?
 
-```
-$ yarn watch # npm run watch
-```
+### Features
+Use this section to list the key functionalities of the project:
+* Feature A
+* Feature B
+* Feature C
 
-## About Scrimba
+### Built With
+>Use this site to generate icons: [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+>
+>Use this site to generate badges: [https://shields.io/](https://shields.io/)
+>
+>Use this repo for pre-made badges: [https://github.com/alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+* List of technology used
+* API integration and link to docs
+  
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+<!--- Installation & Setup Section --->
 
-Happy Coding!
+## Installation & Setup
+
+### How to Build
+* Steps to create project in local environment
+
+### How to Compile
+* Steps to setup and put the project together
+
+### How to Run
+* Steps to make the project work
+
+### How to Use
+* Steps to navigate key features of the project
+### Tests
+* Steps to run tests
+  
+
+<!--- Status Section --->
+
+## Project Status
+
+<a href="https://www.repostatus.org/#active"><img src="https://www.repostatus.org/badges/latest/active.svg" height="30"/></a>
+
+<a href="https://www.repostatus.org/#abandoned"><img src="https://www.repostatus.org/badges/latest/abandoned.svg" height="30"/></a>
+
+<a href="https://www.repostatus.org/#concept"><img src="https://www.repostatus.org/badges/latest/concept.svg" height="30"/></a>
+
+<a href="https://www.repostatus.org/#inactive"><img src="https://www.repostatus.org/badges/latest/inactive.svg" height="30"/></a>
+
+<a href="https://www.repostatus.org/#moved"><img src="https://www.repostatus.org/badges/latest/moved.svg" height="30"/></a> to <a href="http://example.com">http://example.com</a>
+
+<a href="https://www.repostatus.org/#suspended"><img src="https://www.repostatus.org/badges/latest/suspended.svg" height="30"/></a>
+
+<a href="https://www.repostatus.org/#unsupported"><img src="https://www.repostatus.org/badges/latest/unsupported.svg" height="30"/></a>
+
+<a href="https://www.repostatus.org/#wip"><img src="https://www.repostatus.org/badges/latest/wip.svg" height="30"/></a>
+
+### Roadmap
+Use this section to provide an overview of planned changes or features to be implemented.
+- [x] A
+- [x] B
+- [ ] C
+ 
+### Known Issues
+Use this section to list currently known unresolved problems with the project.
+* Issue A
+* Issue B
+* Issue C
+
+
+<!--- Reflection Section --->
+
+## Reflection
+Use this section to discuss any unexpected obstacles encountered and how they were resolved. Mention challenges that were overcome and the lessons learned from them.
+
+Things I learned:
+* Learned this
+* Learned that
+
+
+<!--- Acknowledgements Section --->
+
+## Acknowledgements
+Use this section to give credit to the resources or people that helped in the development of this project.
+Mention what was influenced, inspired, sourced:
+List the people who've inspired or influenced this project
+* Inspiration from A
+* Influence from B
+* Source from C
+
+<p align="right">(<a href="#top-of-page">Back to Top</a>)</p>
